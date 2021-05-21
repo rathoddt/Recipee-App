@@ -7,7 +7,10 @@ import { HeaderComponent } from './header/header/header.component';
 import { SharedModule } from './shared/shared.module';
 import { CoreModule } from './core.module';
 
-
+/*
+Project Console: https://console.firebase.google.com/project/recipe-app-11/overview
+Hosting URL: https://recipe-app-11.web.app
+*/
 
 @NgModule({
   declarations: [
