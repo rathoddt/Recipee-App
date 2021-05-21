@@ -19,8 +19,7 @@ import { RecipesComponent } from "./recipes.component";
         RecipeStartComponent,
         RecipeEditComponent,            
     ],
-    imports: [        
-        AppRoutingModule,
+    imports: [    
         RecipesRoutingModule,   
         ReactiveFormsModule,        
         SharedModule
